@@ -1,0 +1,76 @@
+h1 {
+    font-family: 'Times New Roman'serif;
+    color:white;
+
+
+}
+
+.button {
+    background-color: #265b61;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 7px;
+    margin:5px;
+
+
+
+}
+
+#hello {
+    font-size: 30px;
+    background-color:#265b61;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    padding: 5px;
+    width: 200px;
+}
+#presentation {
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+#navigation {
+    padding:20px;
+    margin:auto;
+    display:table;
+}
+
+#container {
+    max-width: 1200px;
+    display:block;
+    margin: auto;
+     
+
+    
+}
+#test{
+    height: 100px;
+    background-color: brown;
+}
+
+body {
+    background-color:#2d4d4c;
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+ 
